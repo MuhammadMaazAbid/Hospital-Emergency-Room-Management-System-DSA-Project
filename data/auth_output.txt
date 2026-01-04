@@ -1,0 +1,3 @@
+SUCCESS: Login successful!
+Welcome back, Zeeshan Ali!
+Access granted to Hospital ER Management System.

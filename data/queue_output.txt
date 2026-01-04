@@ -1,0 +1,4 @@
+TREATING CRITICAL PATIENT:
+ID: P001
+Priority: 1
+Symptoms: Heart attack

@@ -1,0 +1,2 @@
+SHORTEST PATH FOUND (65 meters):
+Entrance -> Triage -> Corridor A -> ICU
